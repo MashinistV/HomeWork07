@@ -1,0 +1,15 @@
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.csproj.AssemblyReference.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.AssemblyInfoInputs.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.AssemblyInfo.cs
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.csproj.CoreCompileInputs.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/bin/Debug/net7.0/HomeWork07
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/bin/Debug/net7.0/HomeWork07.deps.json
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/bin/Debug/net7.0/HomeWork07.runtimeconfig.json
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/bin/Debug/net7.0/HomeWork07.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/bin/Debug/net7.0/HomeWork07.pdb
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/refint/HomeWork07.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.pdb
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/HomeWork07.genruntimeconfig.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork07/obj/Debug/net7.0/ref/HomeWork07.dll
